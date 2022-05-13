@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mzohaibkhan1
-- 👀 I’m interested in Pyhton
+- 👀 I’m interested in Pyhton , Data Science, Mathematics, Machine Learning, Deep Learning, Networking, OS systems
 - 🌱 I’m currently learning Data Science
 
 <!---
