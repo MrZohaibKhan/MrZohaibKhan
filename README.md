@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrZohaibKhan
-- 👀 I am a Python Programmer and Cloud Engineer. Work on Azure/AWS. Install/Configure/Manage Windows and Linux servers.
+- 👀 I am a Python Programmer and a Cloud Engineer. Work on Azure/AWS. Install/Configure/Manage Windows and Linux servers.
 - 🌱 I’m currently learning DevOps
 
 <!---
