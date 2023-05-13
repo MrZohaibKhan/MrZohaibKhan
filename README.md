@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrZohaibKhan
-- 👀 I am a Python Programmer and a Cloud Engineer. Work on Azure/AWS. Install/Configure/Manage Windows and Linux servers.
-- 🌱 I’m currently learning DevOps
+- 👀 I am Cloud/DevOps Engineer.
+<!-- - 🌱 I’m currently learning  -->
 
 <!---
 mzohaibkhan1/mzohaibkhan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
