@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrZohaibKhan
 - 👀 I am Cloud/DevOps Engineer.
 <!-- - 🌱 I’m currently learning  -->
-- I 🙂am always Learning because learning is fun. I love solving challenging problems.
+- 🙂 I am always Learning because learning is fun. I love solving challenging problems.
 - 🌊 Currently I am diving in the sea of K8s.
 
 <!---
